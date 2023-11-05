@@ -12,6 +12,7 @@ body{
     background-color: aliceblue;
     background-color: #19223f;
     font-family: 'Open Sans', sans-serif;
+    border: 1px solid red;
 }
 
 li{
